@@ -5,9 +5,13 @@ Made on macOs with Python 3.6
 
 List of this project files and repertories :
 > aturiapp.py
+
 > core.py
+
 > format.py
+
 > filesmanager.py
+
 > pilots/
 
 AturiManager allow you to create and manage pilot as described in the 'Heroes of the Aturi Cluster' campaign book (http://dockingbay416.com/campaign/), a co-operative campaign for 'X-Wing : The Miniatures Game' by Fantasy Flight Games (https://www.fantasyflightgames.com/en/products/x-wing/)
