@@ -7,7 +7,7 @@ from format import Color
 
 
 debug = False
-version = 1.0
+version = 0.2
 # --- TRY TO LOAD PILOT FILES ---
 
 # TODO: A better loading function
