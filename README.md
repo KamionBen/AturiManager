@@ -21,3 +21,5 @@ Any advice will be appreciated !
 
 I did this program without any authorization or copyright, because, come on, I did it for the fun.
 Also, I'm french, the code may have some typos.
+
+contact : kamionben@gmail.com
